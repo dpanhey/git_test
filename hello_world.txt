@@ -1,0 +1,2 @@
+Hell world!
+Thats my first test repo, to see what Git is used to do!
